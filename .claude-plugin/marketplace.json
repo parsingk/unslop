@@ -6,9 +6,6 @@
     "name": "parsingk",
     "email": "17137357+parsingk@users.noreply.github.com"
   },
-  "metadata": {
-    "version": "0.1.0"
-  },
   "plugins": [
     {
       "name": "unslop",

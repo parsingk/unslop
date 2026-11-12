@@ -1,6 +1,5 @@
 {
   "name": "unslop",
-  "version": "0.1.0",
   "description": "AI가 만든 티가 나는 UI를 그 제품만의 성격이 있는 디자인된 화면으로 바꿉니다. 슬롭 요소를 먼저 찾아 목록으로 보여주고, 제품에서 방향을 잡은 뒤 디자이너가 레드라인 리뷰하듯 한 층씩 고칩니다. 원작: Damir Sokolovsky (@heydamir), CC BY 4.0.",
   "author": {
     "name": "Damir Sokolovsky",
