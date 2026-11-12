@@ -8,7 +8,22 @@ unslop is a skill for Claude Code, Codex and Google Antigravity that turns vibec
 
 ## Install
 
-For Claude Code, copy the skill into your skills folder.
+For Claude Code, install it as a plugin from this repo.
+
+```
+/plugin install unslop --marketplace parsingk/unslop
+```
+
+On Claude Code older than 2.1.275, add the marketplace first and then install.
+
+```
+/plugin marketplace add parsingk/unslop
+/plugin install unslop@unslop
+```
+
+To pick up a new version later, run `/plugin marketplace update unslop`.
+
+Or copy the skill into your skills folder by hand.
 
 ```bash
 git clone https://github.com/heydamir/unslop
